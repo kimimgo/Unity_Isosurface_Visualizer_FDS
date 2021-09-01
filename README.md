@@ -6,3 +6,6 @@
     + Dr. Kevin B. McGrattan https://www.nist.gov/people/kevin-b-mcgrattan
     + Dr. Randall McDermott https://www.nist.gov/people/randall-j-mcdermott
 ![Test](./img/unity_fds_demo.gif)
+
+# Publications
+[Kim, Imgyu, et al. "Emergency evacuation simulation of a floating LNG bunkering terminal considering the interaction between evacuees and CFD data." Safety science 140 (2021): 105297.](https://scholar.google.com/scholar?oi=bibs&cluster=18067496483206329950&btnI=1)
